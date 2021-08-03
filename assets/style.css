@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+footer ul li i{
+    color: 540b0e;
+}
+.nav-item a{
+    color: grey;
+}
+@media(max-width: 600px){
+    
+}
